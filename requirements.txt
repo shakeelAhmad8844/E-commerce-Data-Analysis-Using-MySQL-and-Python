@@ -1,0 +1,13 @@
+# requirements to go along with the project:
+
+pandas
+matplotlib
+seaborn
+mysql-connector-python
+jupyter notebook
+Mysql
+
+how to install the libraries.
+pip install pandas matplotlib seaborn 
+pip install -r requirements.txt
+
