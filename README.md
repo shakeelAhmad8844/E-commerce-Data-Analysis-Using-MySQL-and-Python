@@ -114,15 +114,8 @@ All of these are solved using optimized SQL and visualized using Python.
 
 ## 📁 Repository Structure
 
-```
-ecommerce-data-analysis/
-├── data/                  # CSV files (optional)
-├── notebooks/             # Jupyter notebooks with full analysis
-├── queries/               # Reusable .sql files for each question
-├── images/                # Charts and visualizations
-├── requirements.txt       # Python dependencies
-├── README.md              # Project documentation
-└── .gitignore             # Files ignored by Git
+All files are present in the main Repository 
+Note : The geolocation.csv in the .rar file
 ```
 
 ---
@@ -131,8 +124,8 @@ ecommerce-data-analysis/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ecommerce-data-analysis.git
-cd ecommerce-data-analysis
+git clone https://github.com/shakeelahmad8844/E-commerce-Data-Analysis-Using-MySQL-and-Python.git
+cd E-commerce-Data-Analysis-Using-MySQL-and-Python
 ```
 
 2. **Set up MySQL**
@@ -159,7 +152,7 @@ Visualizations include:
 
 **Engineer Shakeel Ahmad**  
 📧 Email: [shakeelshaheensss@gmail.com](mailto:shakeelshaheensss@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)
+🔗 [LinkedIn](https://www.linkedin.com/in/shakeel-ahmad-506593233)
 
 ---
 
